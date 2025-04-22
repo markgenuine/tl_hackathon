@@ -53,7 +53,7 @@ It's try launch local ai from opensource project [GPT4All](https://github.com/no
    - [https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 
 2. **Training model**:
-    - [https://github.com/markgenuine/tl_hackathon/local_ai/training.py](Model training)
+    - [Model training](https://github.com/markgenuine/tl_hackathon/local_ai/training.py)
 
 3. **Convert model in `.gguf` file**:
    If you did fine-tuning in Hugging Face format, use `transformers` + `gguf` tools:
